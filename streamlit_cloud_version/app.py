@@ -556,11 +556,25 @@ with tab3:
     # Architecture Image (Fallback)
     st.markdown("---")
     st.markdown("### 📷 Pipeline Diagram")
-    image_paths = ["Data engineering architecture.png", "data_engineering_architecture.png", "dags/Data engineering architecture.png"]
+    
+    # More robust path checking for Streamlit Cloud
+    image_paths = [
+        "Data engineering architecture.png", 
+        "streamlit_cloud_version/Data engineering architecture.png",
+        "airflow-kafka-spark-cassandra-streaming/Data engineering architecture.png",
+        "data_engineering_architecture.png",
+        "./Data engineering architecture.png"
+    ]
+    
+    image_loaded = False
     for p in image_paths:
         if os.path.exists(p):
             st.image(Image.open(p), caption="Detailed Architecture Diagram", use_container_width=True)
+            image_loaded = True
             break
+            
+    if not image_loaded:
+        st.warning(f"⚠️ Architecture image not found. Checked paths: {image_paths}")
 
 # ==================== TAB 4: SYSTEM LOGS ====================
 with tab4:
